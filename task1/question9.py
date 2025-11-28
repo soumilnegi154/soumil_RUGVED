@@ -13,4 +13,4 @@ def cipher(message, shift):
         mnew+=i
     return mnew
 
-print(cipher("abc", 3))
+print(cipher("xyz", 3))
